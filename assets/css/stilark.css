@@ -177,14 +177,53 @@ p a {
 	padding: 15px;
 }
 
+#tema {
+	
+	margin-right: 940px;
+	padding: 15px;
+}
+
 #wamptext {
 	padding: 15px;
 }
 
 #database {
-	margin-right: 600px;
+	margin-right: 80px;
 	padding: 15px;
 }
+
+#tema11 {
+	margin-right: 160px;
+	padding: 15px;
+}
+
+#tema22 {
+
+	padding: 15px;
+}
+
+#plugins {
+	margin-right: 260px;
+	padding: 15px;
+}
+
+#widget {
+	margin-right: 830px;
+	padding: 15px;
+}
+
+#page {
+	margin-right: 570px;
+	padding: 15px;
+}
+
+#post {
+	margin-right: 700px;
+	padding: 15px;
+}
+
+
+
 /* Footer */
 footer {
 	text-align: center;
